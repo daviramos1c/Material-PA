@@ -1,9 +1,3 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 27/02/2023
 Var
 
 hipo,area,perimetro,base,altura: real
@@ -11,12 +5,12 @@ nome: caracter
 
 Inicio
 
-//Começo
+//ComeÃ§o
 
 escreval("Bem vindo(a), digite o seu nome...")
 leia(nome)
 escreval(" ")
-escreval("Olá ", nome, ", vamos calcular o perímetro e a área do seu triangulo")
+escreval("OlÃ¡ ", nome, ", vamos calcular o perÃ­metro e a Ã¡rea do seu triangulo")
 escreval("_______________________________________________________________________")
 escreval(" ")
 
@@ -37,9 +31,9 @@ perimetro <- hipo+base+altura
 
 //Fim
 
-escreval("A área do seu triangulo é de (",area, ")" )
+escreval("A Ã¡rea do seu triangulo Ã© de (",area, ")" )
 escreval(" ")
-escreva("O perímetro do seu triangulo é de aproximadamente ")
+escreva("O perÃ­metro do seu triangulo Ã© de aproximadamente ")
 escreva("(" , perimetro:5:2, ")")
 escreval(" ")
 escreval(" ")
