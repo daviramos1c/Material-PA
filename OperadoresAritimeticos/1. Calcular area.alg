@@ -1,8 +1,8 @@
 algoritmo "Quadrado"
-// Função : Calcular a área e perímetro de um quadrado
+// FunÃ§Ã£o : Calcular a Ã¡rea e perÃ­metro de um quadrado
 // Autor : Davi Antonio
 // Data : 23/02/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 
 
 var
@@ -16,13 +16,13 @@ inicio
 //Entrada
 
 
-escreva("Qual é o seu nome?")
+escreva("Qual Ã© o seu nome?")
 leia(Nome)
 
 escreval(" ")
-escreva("Olá ")
+escreva("OlÃ¡ ")
 escreva(Nome)
-escreval(" vamos calcular a área e o perímetro do seu quadrado ;)")
+escreval(" vamos calcular a Ã¡rea e o perÃ­metro do seu quadrado ;)")
 escreval("________________________________________________________")
 escreval("Digite a medida de um dos lados do quadrado")
 leia(Lado)
@@ -32,12 +32,12 @@ leia(Lado)
 Area <- Lado^2
 Perimetro <- Lado*4
 
-//Saída
+//SaÃ­da
 
-Escreva("Sua área é")
+Escreva("Sua Ã¡rea Ã©")
 Escreval(Area)
 Escreval("")
-Escreva("Seu perímetro é")
+Escreva("Seu perÃ­metro Ã©")
 Escreva(Perimetro)
 
 fimalgoritmo
