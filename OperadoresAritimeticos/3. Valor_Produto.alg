@@ -1,8 +1,8 @@
 algoritmo "Valor de venda"
-// Função : Calcular o valor de venda do produto
+// FunÃ§Ã£o : Calcular o valor de venda do produto
 // Autor : Davi Ramos
 // Data : 09/03/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 nome:caractere
 
@@ -10,7 +10,7 @@ valor,venda, juros:real
 
 inicio
 
-//Introdução
+//IntroduÃ§Ã£o
 
 escreval ("Bem vindos ao processador de custos de venda!!!!")
 escreval ("")
@@ -34,7 +34,7 @@ venda <- valor+juros
 
 escreval ("")
 
-escreva("O valor de venda desse produto é de",venda)
+escreva("O valor de venda desse produto Ã© de",venda)
 escreval ("")
 
 escreval ("")
