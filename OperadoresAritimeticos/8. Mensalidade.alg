@@ -1,8 +1,8 @@
 algoritmo "Juros Mensalidade"
-// Função : Calcular Juros
+// FunÃ§Ã£o : Calcular Juros
 // Autor : Davi
 // Data : 09/03/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 
 mes:caractere
@@ -28,6 +28,6 @@ escreval("")
 
 fin <- (0.02*val*atr)+val
 
-escreva("O valor total da mensalidade de ", mes, " é de", fin)
+escreva("O valor total da mensalidade de ", mes, " Ã© de", fin)
 
 fimalgoritmo
