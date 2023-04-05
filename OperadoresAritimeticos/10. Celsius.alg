@@ -1,15 +1,15 @@
 algoritmo "semnome"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 23/03/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 
 F,C:real
 
 inicio
 
-Escreval("Quantos graus você quer converter para Fahrenheit")
+Escreval("Quantos graus vocÃª quer converter para Fahrenheit")
 leia(C)
 F <-(9*C+160)/5
 
